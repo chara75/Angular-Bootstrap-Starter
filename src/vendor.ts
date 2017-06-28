@@ -11,3 +11,7 @@ import '@angularclass/hmr';
 
 // Other vendors for example jQuery, Lodash or Bootstrap
 // You can import js, ts, css, sass, ...
+import 'jquery';
+import 'tether';
+import 'bootstrap';
+import '@ng-bootstrap/ng-bootstrap';
