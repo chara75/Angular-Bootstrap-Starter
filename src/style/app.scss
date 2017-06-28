@@ -1,9 +1,16 @@
 @import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css');
 // styles in src/style directory are applied to the whole page
-body {
-    background: #0147A7;
-    color: #ff00ff;
-}
 a {
     color: #03A9F4;
+}
+
+body {
+  padding-top: 5rem;
+    background: #0147A7;
+    color: #fff;
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
 }
